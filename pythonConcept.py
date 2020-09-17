@@ -45,11 +45,7 @@ class A(ABC){
     # canniot have construcotr
     constructor(self){}
 
-}
-
-
-
-# use pass for no implementation 
+}# use pass for no implementation 
  def somemethod():
      pass
 
@@ -172,3 +168,4 @@ staticmethod
 
 static variable
 Book.count = Book.count + 1
+

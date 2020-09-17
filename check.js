@@ -1,4 +1,4 @@
-// Abstarct method
+//  
 // Counstructor
 // constructor overloading 
 //method overloading  in a single class is not possible it will take sthe latest
@@ -43,3 +43,10 @@
 
 //duck typing 
 //
+
+
+// class A:
+//     def names(self):
+//         print(f'Normal Method')
+// B = A();
+// B.names();
