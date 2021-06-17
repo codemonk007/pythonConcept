@@ -8,7 +8,8 @@ class A(ABC):
 
 class child(A):
     def __init__(self):
-    def getName():
+        pass
+    def getName(self):
         pass
         
 temp = child()

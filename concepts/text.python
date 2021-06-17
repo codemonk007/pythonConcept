@@ -1,0 +1,28 @@
+# // write a method to find out fizbuzz
+# calling parent method
+#cnstructore
+#Datatypes
+#Forloop
+#getter_Setter
+#if elif else
+#static method
+#static variable
+#OOPS
+#METHOD
+#inherritance
+#parse
+#polymorphism
+#python setup
+#__rpr__(self) tostring
+# pythomn --version freeze
+# pip install vertualenv
+# vertualenv venv --python = versionNumber
+# source vnv/bin/activate
+# python --version
+# pip install flast-restful
+# pip i Flast,Resource,APi
+#Exception
+#super __init
+#Enum
+#arrays
+#dict
